@@ -1,5 +1,4 @@
-# Projet-reseau
-# Projet de Réseau – Architecture Multi-Sites avec VLANs et Routage Statique
+# Projet de Réseau – Architecture Multi-Sites avec VLANs et Routage Statique de notre Université
 
 ## 📌 Description du Projet
 Ce projet consiste à concevoir et implémenter une infrastructure réseau d’entreprise multi-sites.  
